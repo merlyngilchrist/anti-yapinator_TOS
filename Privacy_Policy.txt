@@ -1,0 +1,56 @@
+Privacy Policy for Anti-Yapinator
+
+Last updated: March 2025
+
+By using the Anti-Yapinator bot ("Bot"), you agree to the collection and use of your data as outlined in this Privacy Policy. If you do not agree with this policy, please do not use the Bot.
+1. Introduction
+
+Anti-Yapinator is a Discord bot that disrupts voice chats in Discord servers by playing loud audio when a specified user speaks. We are committed to protecting your privacy and ensuring that your personal information is handled securely. This Privacy Policy explains how we collect, use, and safeguard your information when you use the Bot.
+2. Data Collection
+
+The Bot collects the following types of data:
+
+    User IDs: When you interact with the Bot, your Discord user ID is recorded. This is used to track targeted users and manage access to the Bot’s features.
+    Voice Channel Activity: The Bot listens to voice channels to determine when a target user speaks. The Bot does not record or store voice conversations.
+    Bot Command Usage: The Bot logs the commands that users issue to it (e.g., !target @user, !set_allowed_role @role) to ensure functionality and help with troubleshooting.
+
+The Bot does not collect any personally identifiable information (PII) beyond the data necessary for its operation.
+3. Data Use
+
+The data we collect is used for the following purposes:
+
+    Operation of the Bot: To ensure the Bot functions properly, such as identifying when a target user speaks and playing an audio alert.
+    Improvement and Troubleshooting: To monitor usage patterns and fix bugs or issues that users report.
+    Command Management: To verify user permissions and ensure that only authorized users can access certain features (e.g., targeting a user).
+
+4. Data Storage and Retention
+
+Data collected by the Bot is stored on the server hosting the Bot and is retained only for the duration necessary to operate the Bot. Specifically:
+
+    User IDs and command logs are stored temporarily in memory for immediate operations but are not retained permanently unless explicitly required by the server owner.
+    Voice activity is processed in real-time and not stored, ensuring that no audio recordings are made by the Bot.
+
+We do not store any user data for longer than necessary to fulfill the Bot’s purpose.
+5. Data Sharing
+
+The Bot does not share any data with third parties, except for essential integrations such as:
+
+    FFmpeg: The Bot may use the FFmpeg software to play audio, but it does not share user data with FFmpeg or any related third-party services.
+    Hosting Providers: If the Bot is hosted on a third-party service (e.g., Render, Heroku), the hosting provider may process data to ensure server uptime. These services are compliant with their own privacy policies.
+
+We do not sell, trade, or otherwise share your data with any other organizations or entities.
+6. Security
+
+We take reasonable steps to protect your data from unauthorized access or disclosure. This includes using secure hosting and ensuring that any stored data is adequately protected. However, no method of transmission over the internet or electronic storage is 100% secure, so we cannot guarantee absolute security.
+7. User Rights
+
+You have the following rights concerning your data:
+
+    Access to Data: You may request a summary of the data we collect through the Bot by contacting us directly.
+    Deletion of Data: You can request the deletion of any data related to your user ID, and we will take reasonable steps to comply with that request.
+    Opting Out: You may choose to stop using the Bot at any time, which will stop data collection related to your interactions with the Bot.
+
+If you have any concerns or questions about your rights, please contact us.
+8. Changes to the Privacy Policy
+
+We reserve the right to update this Privacy Policy at any time. If we make changes, we will update the "Last updated" date at the top of this policy and notify users if significant changes occur. Continued use of the Bot after such changes constitutes your acceptance of the updated policy.
